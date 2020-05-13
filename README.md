@@ -14,7 +14,6 @@ Para poder utilizar essa API deve-se adicionar o seguinte pacote:
 <p>Para adicionar esse pacote, rode o seguinte comando dentro da pasta <b>myapp</b>:
 dotnet add package System.DirectoryServices.AccountManagement --version 4.7.0;</p>
 
-Caso dê algum problema na hora de testar, tente fechar e abrir novamente a sua IDE ou tente instalar novamente,
-se o erro persistir, por favor entre em contato comigo no meu e-mail: gustavoscarpim@gmail.com.
+Caso dê algum problema na hora de rodar a aplicação, tente fechar e abrir novamente a sua IDE ou tente instalar novamente o pacote DirectoryService, se o erro persistir, por favor entre em contato no meu e-mail: gustavoscarpim@gmail.com.
 
 <h1>Desenvolvido por Gustavo Scarpim</h1>
