@@ -1,1 +1,3 @@
 API com altenticação no AD
+
+dotnet add package System.DirectoryServices.AccountManagement --version 4.7.0
